@@ -12,15 +12,7 @@ A fun and interactive Tic Tac Toe game built with **HTML**, **CSS**, and **JavaS
 
 ## 📸 Preview
 
-![Screenshot](./screenshot.png) <!-- Optional: Add your own screenshot image in the repo -->
-
-## 🚀 Getting Started
-
-You can **clone and run** the game locally in a browser:
-
-```bash
-git clone https://github.com/dotsatya/Tic-Tac-Toe-Game.git
-cd Tic-Tac-Toe-Game
+![Screenshot](./image.png) <!-- Optional: Add your own screenshot image in the repo -->
 
 ## 🌐 Live Demo
 
